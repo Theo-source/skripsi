@@ -6,7 +6,10 @@ Isinya result graph & conf matrix
 - Folder Code
 Isinya kodingan, buka di Google Colab
 
+- Folder Ref
+Isinya referensi
+
 - Folder Ujian
-Isi bahan ujian skripsi
+Isi buku skripsi dan makalah sidang
 
 - 
